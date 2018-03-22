@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "learn_overrided_swiftPrint"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "The purpose of this library is to ascertain the behavior when Swift.print is overridden."
 
 
